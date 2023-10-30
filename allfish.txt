@@ -1,0 +1,151 @@
+Snowy Flopper - uncommon
+Got cold feet? Now you do.
+
+Orange Flopper - uncommon
+Eat me! I'll Give You Health!
+
+Yellow Slurpfish - epic
+Consume for juicy health or shield.
+
+Purple Slurpfish - epic
+Consume for juicy health or shield.
+
+Black Slurpfish - epic
+Consume for juicy health or shield.
+
+White Slurpfish - epic
+Consume for juicy health or shield.
+
+Light Blue Small Fry - common
+Consume for some light healing.
+
+Tan Small Fry - common
+Consume for some light healing.
+
+Purple Top Small Fry - common
+Consume for some light healing.
+
+Black Small Fry - common
+Consume for some light healing.
+
+Blue Small Fry - common
+Consume for some light healing.
+
+Purple and Orange Thermal Fish - legendary
+Consume to see it all.
+
+Green Flopper - uncommon
+Eat me! I'll Give You Health!
+
+Green Thermal Fish - legendary
+Consume to see it all.
+
+Silver Thermal Fish - legendary
+Consume to see it all.
+
+Raven Thermal Fish - legendary
+Consume to see it all.
+
+Red And Green Thermal Fish - legendary
+Consume to see it all.
+
+Molten Spicy Fish - rare
+Spicy! Consume to gain a speed boost.
+
+Drift Spicy Fish - rare
+Spicy! Consume to gain a speed boost.
+
+White Spotted Spicy Fish - rare
+Spicy! Consume to gain a speed boost.
+
+Southern Spicy Fish - rare
+Spicy! Consume to gain a speed boost.
+
+Sky Blue Spicy Fish - rare
+Spicy! Consume to gain a speed boost.
+
+Slurp Jellyfish - rare
+Squeeze to splash nearby players and instantly apply Health and Shields to them.
+
+Blue Flopper - uncommon
+Eat me! I'll Give You Health!
+
+Peely Jellyfish - rare
+Squeeze to splash nearby players and instantly apply Health and Shields to them.
+
+Purple Jellyfish - rare
+Squeeze to splash nearby players and instantly apply Health and Shields to them.
+
+Dark Vangaurd Jellyfish - rare
+Squeeze to splash nearby players and instantly apply Health and Shields to them.
+
+Cuddle Jellyfish - rare
+Squeeze to splash nearby players and instantly apply Health and Shields to them.
+
+Volcanic Rift Fish - epic
+Eat this when you'd rather be somewhere else.
+
+Butterfly Rift Fish - epic
+Eat this when you'd rather be somewhere else.
+
+Black Spotted Rift Fish - epic
+Eat this when you'd rather be somewhere else.
+
+Sandstorm Rift Fish - epic
+Eat this when you'd rather be somewhere else.
+
+Galactic Rift Fish - epic
+Eat this when you'd rather be somewhere else.
+
+Shadow Flopper - rare
+Take a bite to heal and enter a ghostly form.
+
+Black and Blue Shield Fish - rare
+Consume for juicy Shields.
+
+Vendetta Flopper - uncommon
+Eat me! I'll mark a nearby enemy.
+
+Blue Shadow Flopper - rare
+Take a bite to heal and enter a ghostly form.
+
+Green Shadow Flopper - rare
+Take a bite to heal and enter a ghostly form.
+
+Pink Shadow Flopper - rare
+Take a bite to heal and enter a ghostly form.
+
+Teal Shadow Flopper - rare
+Take a bite to heal and enter a ghostly form.
+
+Tiger Zero Fish - rare
+Tastes like Zero Point displacement!
+
+Leafy Zero Fish - rare
+Tastes like Zero Point displacement!
+
+Crimson Zero Fish - rare
+Tastes like Zero Point displacement!
+
+Skull Zero Fish - rare
+Tastes like Zero Point displacement!
+
+Crystal Zero Fish - rare
+Tastes like Zero Point displacement!
+
+Black Striped Shield Fish - rare
+Consume for juicy Shields.
+
+Green Shield Fish - rare
+Consume for juicy Shields.
+
+Pink Shield Fish - rare
+Consume for juicy Shields.
+
+Light Blue Shield Fish - rare
+Consume for juicy Shields.
+
+Blue SlurpFish - epic
+Consume for juicy health or shield.
+
+Extracted with Fevers Fish Bot
