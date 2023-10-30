@@ -1612,4 +1612,4 @@ async def howtouseshop(ctx):
 # HIDDEN TO NOT SHOW TOKEN
 # HIDDEN TO NOT SHOW TOKEN
 # HIDDEN TO NOT SHOW TOKEN
-client.run('ODkyODU1MTA1MjYxNTYzOTQ1.YVS-HQ.p6uXgHguNIDEbTuKYwPWrTYgwyk')
+client.run('BOT API KEY')
